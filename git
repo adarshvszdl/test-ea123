@@ -1,0 +1,4 @@
+git commit -amend ==>  add a new something to the last commit 
+git restore --staged <file>  ->  to unstage 
+ and git restore --staged <file>
+
